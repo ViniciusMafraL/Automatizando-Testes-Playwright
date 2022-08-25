@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ViniciusMafraL/Automatizando-Testes/issues"
   },
-  "homepage": "https://github.com/ViniciusMafraL/Automatizando-Testes#readme"
+  "homepage": "https://github.com/ViniciusMafraL/Automatizando-Testes#readme",
+  "devDependencies": {
+    "playwright": "^1.25.1"
+  }
 }
